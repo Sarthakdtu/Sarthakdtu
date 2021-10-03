@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there, I'm [Sarthak!](https://www.linkedin.com/in/sarthaksrivastava712/) 👋
+![](https://komarev.com/ghpvc/?username=Sarthakdtu)
 
 <!--
-**Sarthakdtu/Sarthakdtu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sarthakdtu&theme=dark)]
+
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sarthakdtu&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Sarthak's github stats" />
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthakdtu&layout=compact&theme=material-palenight" />
