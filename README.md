@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- 🔭 I’m currently working on [StockShare - A Trading Application](https://github.com/Sarthakdtu/StockShare)
 -->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sarthakdtu&theme=dark)]
@@ -23,7 +25,6 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthakdtu&layout=compact&theme=material-palenight" />
 
 
-- 🔭 I’m currently working on [StockShare - A Trading Application](https://github.com/Sarthakdtu/StockShare)
 - 🌱 I’m currently learning Java and Spring Boot
 - 👯 I’m looking to collaborate on any project belonging to Spring Boot or Django
 - 📫 How to reach me: sarthaksrivastavadtu712@gmail.com
